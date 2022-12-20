@@ -1,4 +1,4 @@
-# CLA Onboarding Repo (Spec+code projects)
+# CLA Onboarding Repo (Spec+code projects) 
 
 CHIPS Alliance requires all specification projects to accept contributions under a CLA and the OWFa. We use the EasyCLA tool to ensure that all contributors have signed the appropriate documents.
 
