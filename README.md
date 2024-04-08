@@ -8,6 +8,6 @@ Please also note there is a separate CLA for contributions to projects that prod
 
 Once you have signed as an individual or been added to your company's approved contributors list you will not be prompted to sign the CLA+OWFa again.
 
-All PRs will be closed periodically.
+All PRs will be closed periodically. 
 
 To learn more about this process, [please visit the CHIPS Alliance TSC repository](https://github.com/chipsalliance/tsc/tree/main/cla).
